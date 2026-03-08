@@ -1,4 +1,4 @@
-# 🎓 Student Final Score Prediction System
+# 🎓 ScoreSense - Student Performance Prediction System
 
 ## 🧾 Overview
 
